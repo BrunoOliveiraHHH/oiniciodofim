@@ -19,7 +19,7 @@
 		<azure.version>2.2.0</azure.version>
 		<spring-cloud-services.version>2.1.4.RELEASE</spring-cloud-services.version>
 		<spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
-		<vaadin.version>14.0.15</vaadin.version>
+		<vaadin.version>14.4.10</vaadin.version>
 	</properties>
 
 	<dependencies>
